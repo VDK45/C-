@@ -1,0 +1,18 @@
+﻿Сборка начата 31.01.2022 16:48:56.
+     1>Проект "C:\Users\VDK45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Education1.cpp
+         Education1.cpp
+     1>c:\users\vdk45\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\education1.cpp(42): warning C4305: =: усечение из "int" к "char"
+     1>c:\users\vdk45\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\education1.cpp(42): warning C4309: =: усечение константного значения
+     1>c:\users\vdk45\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\education1.cpp(44): warning C4305: =: усечение из "int" к "char"
+     1>c:\users\vdk45\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\education1.cpp(44): warning C4309: =: усечение константного значения
+     1>c:\users\vdk45\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\education1.cpp(338): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных
+     1>c:\users\vdk45\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\education1.cpp(313): warning C4101: size: неиспользованная локальная переменная
+     1>c:\users\vdk45\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\education1.cpp(385): error C2371: main: переопределение; различные базовые типы
+         c:\users\vdk45\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\education1.cpp(17): note:  см. объявление "main"
+     1>Сборка проекта "C:\Users\VDK45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:01.22
