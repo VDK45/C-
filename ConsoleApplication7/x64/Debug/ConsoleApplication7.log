@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\VDK45\source\repos\ConsoleApplication7\ConsoleApplication7\Source.cpp(615,2): warning C4286: MyException &: перехвачено базовым классом ("std::exception &") в строке 611
+C:\Users\VDK45\source\repos\ConsoleApplication7\ConsoleApplication7\Source.cpp(402,8): warning C4101: ch: неиспользованная локальная переменная
+  ConsoleApplication7.vcxproj -> C:\Users\VDK45\source\repos\ConsoleApplication7\x64\Debug\ConsoleApplication7.exe
