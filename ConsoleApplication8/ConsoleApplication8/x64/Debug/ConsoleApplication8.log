@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\VDK45\source\repos\ConsoleApplication8\ConsoleApplication8\Source.cpp(307,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\VDK45\source\repos\ConsoleApplication8\ConsoleApplication8\Source.cpp(314,14): warning C4101: pcs: неиспользованная локальная переменная
+  ConsoleApplication8.vcxproj -> C:\Users\VDK45\source\repos\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
